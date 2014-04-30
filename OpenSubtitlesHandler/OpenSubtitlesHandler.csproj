@@ -67,7 +67,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Debug\OSHConsole.cs" />
+    <Compile Include="Console\OSHConsole.cs" />
     <Compile Include="Interfaces\IMethodResponse.cs" />
     <Compile Include="Interfaces\MethodResponseAttr.cs" />
     <Compile Include="Languages\DetectLanguageResult.cs" />
